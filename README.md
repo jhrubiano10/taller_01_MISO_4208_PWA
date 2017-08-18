@@ -1,6 +1,6 @@
-# Taller 01 MISO 4208 PWA
+# Taller 01 MISO-4208 Progressive Web Apps (PWA)
 
-Taller relacionado a la asigantura "Pruebas Automáticas" de la Maestra en Ingeniera de Software.
+Taller relacionado a la asigantura **Pruebas Automáticas** de la Maestra en Ingeniera de Software.
 
 Enlace taller: https://miso-4208-labs.gitlab.io/talleres/taller1-pwa.html
 
