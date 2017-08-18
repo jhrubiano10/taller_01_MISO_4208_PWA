@@ -71,8 +71,8 @@ Se ha seguido la gua del siguiente enlace: https://developer.mozilla.org/es/docs
 
 
 ### Autor
-Jorge Rubaino [@ostjh]
-Código: 201510711
+* Jorge Rubaino [@ostjh]
+* Código: 201510711
 
 
 License
