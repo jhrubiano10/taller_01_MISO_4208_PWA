@@ -1,0 +1,9 @@
+{
+  "firebase": "schedule-train-jorge",
+  "public": "deploy_firebase",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
