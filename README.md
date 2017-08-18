@@ -31,7 +31,7 @@ Los reportes de estas capturas se pueden encontrar en la carpeta [reports_lighth
 
 # Implementación IndexDB.
 
-Se ha seguido la gua del siguiente enlace: https://developer.mozilla.org/es/docs/IndexedDB-840092-dup/Usando_IndexedDB
+Se ha seguido la guía del siguiente enlace: https://developer.mozilla.org/es/docs/IndexedDB-840092-dup/Usando_IndexedDB
 
 ![IndexDB](https://github.com/jhrubiano10/taller_01_MISO_4208_PWA/blob/master/images/IndexDB.gif?raw=true)
 
